@@ -2,7 +2,7 @@
   "_args": [
     [
       "evolution-rpc@^0.1.1",
-      "/root/derogoldd-ha"
+      "/root/evolution-ha"
     ]
   ],
   "_from": "evolution-rpc@>=0.1.1 <0.1.5",
