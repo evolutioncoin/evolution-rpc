@@ -1,30 +1,30 @@
 {
   "_args": [
     [
-      "derogold-rpc@^0.1.1",
+      "evolution-rpc@^0.1.1",
       "/root/derogoldd-ha"
     ]
   ],
-  "_from": "derogold-rpc@>=0.1.1 <0.1.5",
+  "_from": "evolution-rpc@>=0.1.1 <0.1.5",
   "_hasShrinkwrap": false,
-  "_id": "derogold-rpc@0.1.1",
+  "_id": "evolution-rpc@0.1.1",
   "_inCache": true,
   "_installable": true,
-  "_location": "/turtlecoin-rpc",
+  "_location": "/evolution-rpc",
   "_nodeVersion": "8.11.3",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/derogold-rpc_0.1.1_"
+    "tmp": "tmp/evolution-rpc_0.1.1_"
   },
   "_npmUser": {
-    "email": "leos.stehlik@gmail.com",
-    "name": "leocuvee"
+    "email": "evolutioncoin@protonmai.com",
+    "name": "ArtFix"
   },
   "_npmVersion": "5.6.0",
   "_phantomChildren": {},
   "_requested": {
-    "name": "derogold-rpc",
-    "raw": "derogold-rpc@^0.1.1",
+    "name": "evolution-rpc",
+    "raw": "evolution-rpc@^0.1.1",
     "rawSpec": "^0.1.1",
     "scope": null,
     "spec": ">=0.1.1 <0.1.5",
@@ -33,23 +33,23 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/dergold-rpc/-/derogold-rpc-0.1.1.tgz",
+  "_resolved": "https://registry.npmjs.org/evolution-rpc/-/derogold-rpc-0.1.1.tgz",
   "_shasum": "9c26c0139b5bc67a31731ae3f15959b195bf167f",
   "_shrinkwrap": null,
   "_spec": "turtlecoin-rpc@^0.1.1",
-  "_where": "/root/derogoldd-ha",
+  "_where": "/root/evolution-ha",
   "author": {
-    "email": "leos.stehlik@gmail.com",
-    "name": "Leos Stehlik"
+    "email": "evolutioncoin@protonmai.com",
+    "name": "ArtFix"
   },
   "bugs": {
-    "url": "https://github.com/LeoStehlik/derogold-rpc/issues"
+    "url": "https://github.com/evolutioncoin/evolution-rpc/issues"
   },
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
   },
-  "description": "DeroGold RPC API Interface in NodeJS",
+  "description": "Evolution RPC API Interface in NodeJS",
   "devDependencies": {
     "standard": "^1.0.1"
   },
