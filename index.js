@@ -5,7 +5,7 @@
 
 'use strict'
 
-module.exports.EvolutionDaemon = require('./lib/evolution-rpc.js')
+module.exports.EvolutionD = require('./lib/evolution-rpc.js')
 module.exports.DeroGoldd = require('./lib/derogoldd-rpc.js')
 module.exports.TurtleService = require('./lib/service-rpc.js')
 
