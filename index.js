@@ -14,4 +14,4 @@ module.exports.TurtleService = require('./lib/service-rpc.js')
 module.exports.Walletd = require('./lib/service-rpc.js')
 module.exports.Service = require('./lib/service-rpc.js')
 module.exports.Client = require('./lib/derogoldd-rpc.js')
-module.exports.Client = require('./lib/evolution-rpc.js
+module.exports.Client = require('./lib/evolution-rpc.js')
